@@ -1,5 +1,4 @@
 robot friends App created with React + Redux.
 to run:
-1. NPM Install
-2. NPM init
-3. NPM start
+1. NPM install
+2. NPM start
